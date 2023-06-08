@@ -1,1 +1,3 @@
 sentence-transformers
+Flask==2.0.1
+
